@@ -2,4 +2,10 @@
 
 ​        简单来说作为一名程序员，一来感觉自己最近无聊（骗人的，还是因为基础不牢固），二来感觉自己好多东西逐渐忘却。想着空闲时旧知识重新回顾与巩固，新知识慢慢学些，那就索性平常看的东西记录到GitHub上吧，无论是代码、笔记或者链接。
 
-​        为什么会空两格开头呢（手动![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\SGPicFaceTpBq\13588\2AD34AC9.png)）？
+​        为什么会空两格开头呢（手动狗头）？
+
+-----
+
+### 1、Computer System
+
+<a href = "https://github.com/GingJing/Programmer_Ones_More/ComputerSystem">ComputerSystem</a>
