@@ -1,0 +1,34 @@
+server:
+  port: 18081
+#实例处理的文件类型映射
+upload:
+  filemap:
+    aliyunOSSFileUpload: mp4,avi
+    fastDFSFileUpload: png,jpg
+#等级和策略实例的映射关系
+strategy:
+  strategyMap:
+    1: strategyVipOne
+    2: strategyVipTwo
+    3: strategyVipThree
+    4: strategyVipFour
+#支付
+pay:
+  paymap: {"1":"weiXinPay", "2":"aliPay"}
+#FastDFS配置
+fastdfs:
+  url: http://192.168.211.137:28181/
+#aliyun
+aliyun:
+  endpoint: oss-cn-beijing.aliyuncs.com
+  accessKey: a7i6rVEjbtaJdYX2
+  accessKeySecret: MeSZPybPHfJtsYCRlEaUbfRtdH8gl4
+  bucketName: sklll
+  key: video/
+  #访问地址配置
+  backurl: https://sklll.oss-cn-beijing.aliyuncs.com/video/
+spring:
+  servlet:
+    multipart:
+    #上传文件大小配置
+    max-file-size: 100MB
