@@ -17,7 +17,8 @@ public class SpringComponentTest {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("beans-async-annotation.xml");
         System.out.println(Thread.currentThread().getName() + " start ");
         AsyncAnnotationTest asyncAnnotationTest = (AsyncAnnotationTest) applicationContext.getBean("asyncAnnotationTest");
-        asyncAnnotationTest.printMessages();
+//        asyncAnnotationTest.printMessages();
+        asyncAnnotationTest.doExceptionally();
         System.out.println(Thread.currentThread().getName() + " shutdown ");
     }
 }

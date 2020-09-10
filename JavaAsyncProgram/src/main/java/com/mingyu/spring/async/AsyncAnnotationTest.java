@@ -22,4 +22,12 @@ public class AsyncAnnotationTest {
             }
         }
     }
+
+    @Async
+    public void doExceptionally() {
+        System.out.println("begin");
+        int i = 0;
+        int j = 1 / i;
+        System.out.println("not reach");
+    }
 }

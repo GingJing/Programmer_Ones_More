@@ -11,9 +11,10 @@
         http://www.springframework.org/schema/task/spring-task.xsd
 ">
     <!-- Async开启注解解析 -->
-    <task:annotation-driven executor="myExecutor"/>
+    <task:annotation-driven executor="myExecutor" exception-handler="myAsyncUncaughtExceptionHandler"/>
     <!-- 创建自己的线程池 -->
     <task:executor id="myExecutor" pool-size="5"/>
-
     <bean id="asyncAnnotationTest" class="com.mingyu.spring.async.AsyncAnnotationTest"/>
+    <!-- Async异常处理器 -->
+    <bean id="myAsyncUncaughtExceptionHandler" class="com.mingyu.spring.async.MyAsyncUncaughtExceptionHandler"/>
 </beans>
