@@ -36,9 +36,9 @@ public class AsyncExecutorTest {
         }
     }
 
-    public void printMessage() {
+    public void printMessage(String ss) {
         for (int i = 0; i < 20; i++) {
-            myTaskExecutor.execute(new MessagePrinterTask("Message" + i));
+            myTaskExecutor.execute(new MessagePrinterTask("Message" + i + " " + ss));
         }
     }
 

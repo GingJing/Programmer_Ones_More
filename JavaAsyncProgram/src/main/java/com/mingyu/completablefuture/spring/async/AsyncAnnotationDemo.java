@@ -18,11 +18,11 @@ import java.util.concurrent.CompletableFuture;
 public class AsyncAnnotationDemo {
 
     @Async("myTaskExecutor")
-    public void printMessages() {
+    public void printMessages(String ss) {
         for (int i = 1; i < 6; i++) {
             try {
                 Thread.sleep(1000);
-                System.out.println(Thread.currentThread().getName() + " message" + i);
+                System.out.println(Thread.currentThread().getName() + " message" + i + " " + ss);
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -30,15 +30,15 @@ public class AsyncAnnotationDemo {
     }
 
     @Async("myTaskExecutor")
-    public CompletableFuture<String> asyncDoSth() {
+    public CompletableFuture<String> asyncDoSth(String c) {
         CompletableFuture<String> future = new CompletableFuture<>();
         try {
             Thread.sleep(3000);
-            System.out.println(Thread.currentThread().getName() + " async completable future");
+            System.out.println(Thread.currentThread().getName() + " async completable future" + " " + c);
         } catch (Exception e) {
             e.printStackTrace();
         }
-        future.complete("complete it");
+        future.complete(c + " complete it");
 
         return future;
     }

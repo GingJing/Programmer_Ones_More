@@ -31,7 +31,7 @@ public class JavaAsyncProgramTest {
     @Test
     public void testAsyncExecutor() {
         System.out.println(Thread.currentThread().getName() + " testAsyncExecutor start");
-        asyncExecutorTest.printMessage();
+        asyncExecutorTest.printMessage("test");
         System.out.println(Thread.currentThread().getName() + " testAsyncExecutor end");
         asyncExecutorTest.shutdown();
     }
@@ -39,8 +39,8 @@ public class JavaAsyncProgramTest {
     @Test
     public void testAsyncAnnotationCompletableFuture() throws ExecutionException, InterruptedException {
         System.out.println(Thread.currentThread().getName() + " testAsyncAnnotationCompletableFuture start");
-        asyncAnnotationDemo.printMessages();
-        CompletableFuture<String> result = asyncAnnotationDemo.asyncDoSth();
+        asyncAnnotationDemo.printMessages("async");
+        CompletableFuture<String> result = asyncAnnotationDemo.asyncDoSth("test2");
         result.whenComplete((s, t) -> {
             if (t == null) {
                 System.out.println(Thread.currentThread().getName() + " " + s);
