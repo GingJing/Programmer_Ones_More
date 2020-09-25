@@ -15,8 +15,14 @@
 
 ### 2、Java Async Programming
 
+> ##### 案例参考java异步编程实战
+
 <a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/JavaAsyncProgram">JavaAsyncProgram</a>
 
 ### 3、Java Virtual Machine Optimize
 
 <a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/JavaVirtualOptimize">JavaVirtualOptimize</a>
+
+### 4、Design Patterns
+
+<a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/study_demo/DesignPatterns3">JavaVirtualOptimize</a>
