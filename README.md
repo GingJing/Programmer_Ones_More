@@ -16,3 +16,7 @@
 ### 2、Java Async Programming
 
 <a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/JavaAsyncProgram">JavaAsyncProgram</a>
+
+### 3、Java Virtual Machine Optimize
+
+<a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/JavaVirtualOptimize">JavaVirtualOptimize</>
