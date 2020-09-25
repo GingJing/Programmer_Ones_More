@@ -25,4 +25,4 @@
 
 ### 4、Design Patterns
 
-<a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/study_demo/DesignPatterns3">JavaVirtualOptimize</a>
+<a href = "https://github.com/GingJing/Programmer_Ones_More/tree/master/study_demo/DesignPatterns03">DesignPatterns</a>
