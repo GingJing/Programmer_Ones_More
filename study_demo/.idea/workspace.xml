@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22a25961-5ff0-4650-bce9-688da6afc747" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/JavaAsyncProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/JavaAsyncProgram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/exception/ExceptionallyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/exception/ExceptionallyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ResultSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ResultSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/RunAsyncTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/RunAsyncTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/SupplyAsyncTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/SupplyAsyncTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ThenAcceptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ThenAcceptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ThenApplyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ThenApplyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ThenRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/ThenRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/WhenCompleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/simple/WhenCompleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/spring/executor/AsyncExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/completablefuture/spring/executor/AsyncExecutorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/CallableThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/CallableThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/NamedThreadFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/NamedThreadFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/SimpleFutureTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/SimpleFutureTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/SimpleThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/SimpleThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/SimpleThreadPool2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/SimpleThreadPool2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/copy/CopyFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/copy/CopyFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/copy/CopyFutureTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/java/com/mingyu/threadpool/copy/CopyFutureTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/resources/beans-async-annotation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAsyncProgram/src/main/resources/beans-async-annotation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/shop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/shop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/shop/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/shop/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/shop/src/test/java/com/mingyu/shop/ShopApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/shop/src/test/java/com/mingyu/shop/ShopApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/adapter/PunchCardBefore.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/adapter/PunchCardBefore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/aop/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/aop/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/aop/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/aop/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/aop/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/src/main/java/com/mingyu/aop/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns03/src/test/java/com/mingyu/demotest/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns03/src/test/java/com/mingyu/demotest/DemoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\dev\IdeaProject\GitHub\Programmer_Ones_More\study_demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/java/tools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\java\tools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h5aAG6J9jhKkwvIQiABv1YThzo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22a25961-5ff0-4650-bce9-688da6afc747" name="Default Changelist" comment="" />
+      <created>1599303261775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599303261775</updated>
+      <workItem from="1599303263050" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
+  </component>
+</project>
